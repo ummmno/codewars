@@ -1,0 +1,3 @@
+C:/Users/danie/CLionProjects/codewars/cmake-build-debug/CMakeFiles/codewars.dir
+C:/Users/danie/CLionProjects/codewars/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/danie/CLionProjects/codewars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
